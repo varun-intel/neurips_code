@@ -17,8 +17,7 @@ ECNet-GS:
 
 In order to remove multitask training, add `--gin_binding='default_teams.use_comm_penalty_prob=1.0'`; to remove message forwarding, add `--gin_binding='default_teams.forward_messages=False'`
 
-##Predator-Prey
-
+## Predator-Prey
 Baseline:
 `python3.7 scripts/reinforce/run.py --gin_file scripts/reinforce/configs/single_team/meet.json --gin_file scripts/reinforce/configs/comm_monitor.json --gin_file scripts/reinforce/configs/algos/tarmac.json`
 
