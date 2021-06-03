@@ -1,0 +1,11 @@
+{
+	"env": {
+		"name": "lever",
+		"num_teams": 1,
+		"kwargs": {
+			"nlevers": 5,
+			"nplayers": 100
+		}
+	},
+	"max_episode_steps": 1
+}

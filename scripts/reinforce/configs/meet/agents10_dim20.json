@@ -1,0 +1,13 @@
+{
+	"env": {
+		"name": "meet",
+		"num_teams": 1,
+		"kwargs": {
+			"nagents": 10,
+			"dim": 20,
+			"vision": 1,
+			"reward_type": "mixed"
+		}
+	},
+	"max_episode_steps": 80
+}

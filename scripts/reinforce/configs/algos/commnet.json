@@ -1,0 +1,7 @@
+{
+	"default_teams": {
+		"comm_type": "commnet",
+		"value_comm_type": "commnet",
+		"message_size": 64
+	}
+}

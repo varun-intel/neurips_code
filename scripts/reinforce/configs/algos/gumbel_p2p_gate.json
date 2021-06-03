@@ -1,0 +1,12 @@
+{
+	"default_teams": {
+		"global_comm_gate": false,
+		"p2p_comm_gate": true,
+		"comm_gate_gen": "gumbel_softmax",
+		"use_comm_gate_penalty_loss": true,
+		"use_comm_gate_policy_loss": false,
+		"add_comm_penalty_to_return": false,
+		"final_comm_penalty": 0.01,
+		"p2p_gen_type": "context"
+	}
+}

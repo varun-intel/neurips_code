@@ -1,0 +1,8 @@
+{
+	"env_wrappers": [
+		{
+			"name": "comm_monitor",
+			"kwargs": {"report_pairwise": true}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"default_teams": {
+		"comm_type": "tarmac",
+		"value_comm_type": "tarmac",
+		"value_size": 32,
+		"key_size": 16
+	}
+}
